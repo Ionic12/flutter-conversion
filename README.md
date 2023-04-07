@@ -8,6 +8,7 @@ Pada bagian konversi(), terdapat proses konversi suhu dari Celcius ke satuan suh
 
 Sedangkan pada bagian build(), diatur tata letak atau tampilan dari seluruh komponen tersebut dengan menggunakan widget-column dan widget-expanded untuk membuat tampilan yang responsif di berbagai ukuran layar. Selain itu, digunakan juga widget-listview untuk menampilkan daftar history konversi yang telah dilakukan.
 </div>
+
 ## Output
 <img src="Screenshot_2022-11-15-10-00-26-50_5e4fa6cf7995f761a84f80f1d1a4721d.jpg">
 <img src="Screenshot_2022-11-15-10-01-15-32_5e4fa6cf7995f761a84f80f1d1a4721d.jpg">
